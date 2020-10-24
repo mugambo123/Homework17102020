@@ -1,0 +1,28 @@
+public class Twenty20 {
+    // Java program to print pattern like petrol station receipt.
+    public static void main(String[] args) {
+        System.out.println("+----------------------------------+");
+        System.out.println();
+        System.out.println("|                                  |");
+        System.out.println();
+        System.out.println("|           Corner Store           |");
+        System.out.println();
+        System.out.println("|                                  |");
+        System.out.println();
+        System.out.println("|  2015-03-29      04.38PM         |");
+        System.out.println();
+        System.out.println("|                                  |");
+        System.out.println();
+        System.out.println("|  Gallons:             10.870     |");
+        System.out.println();
+        System.out.println("| Price/gallon:      $  2.089      |");
+        System.out.println();
+        System.out.println("|                                  |");
+        System.out.println();
+        System.out.println("|  Fuel total:       $ 22.710      |");
+        System.out.println();
+        System.out.println("|                                  |");
+        System.out.println("+----------------------------------+");
+
+    }
+}
